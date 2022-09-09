@@ -14,10 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br />
 
 :computer: I'm a full stack developer striving to improve my skills and conribute to new and existing softwares. 
+<br />
+
 :snowflake: I'm especially invested in React stacks such as MERN stack as well as firebase.
+<br />
 
 📫 How to reach me:
+<br />
+
 My LinkedIn: https://www.linkedin.com/in/jessica-bassil-260057190/
+<br />
+
 My Email: bassiljessica18@gmail.com
