@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Jessica ✨
 
 <!--
 **JessicaBassil/JessicaBassil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:computer: I'm a full stack developer striving to improve my skills and conribute to new and existing softwares. 
+:snowflake: I'm especially invested in React stacks such as MERN stack as well as firebase.
+
+📫 How to reach me:
+My LinkedIn: https://www.linkedin.com/in/jessica-bassil-260057190/
+My Email: bassiljessica18@gmail.com
