@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 <br />
 
 ## 📫 How to reach me:
+
+&emsp; My LinkedIn: https://www.linkedin.com/in/jessica-bassil-260057190/
 <br />
 
-emsp; My LinkedIn: https://www.linkedin.com/in/jessica-bassil-260057190/
-<br />
-
-emsp; My Email: bassiljessica18@gmail.com
+&emsp; My Email: bassiljessica18@gmail.com
