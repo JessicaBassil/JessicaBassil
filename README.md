@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 :snowflake: I'm especially invested in React stacks such as MERN stack as well as firebase.
 <br />
 
-📫 How to reach me:
+## 📫 How to reach me:
 <br />
 
-My LinkedIn: https://www.linkedin.com/in/jessica-bassil-260057190/
+emsp; My LinkedIn: https://www.linkedin.com/in/jessica-bassil-260057190/
 <br />
 
-My Email: bassiljessica18@gmail.com
+emsp; My Email: bassiljessica18@gmail.com
