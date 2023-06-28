@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me:
 
-&emsp; My LinkedIn: https://www.linkedin.com/in/jessica-bassil-260057190/
-<br />
-
 &emsp; My Portfolio: https://portfolio-jessica-bassil-fullstack.onrender.com/
 <br/>
 
