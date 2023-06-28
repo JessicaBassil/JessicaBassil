@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 &emsp; My LinkedIn: https://www.linkedin.com/in/jessica-bassil-260057190/
 <br />
 
-&empsp; My Portfolio: https://portfolio-jessica-bassil-fullstack.onrender.com/
+&emsp; My Portfolio: https://portfolio-jessica-bassil-fullstack.onrender.com/
 <br/>
 
 &emsp; My Email: bassiljessica18@gmail.com
