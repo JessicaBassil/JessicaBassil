@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br />
 
-:computer: I'm a full stack developer striving to improve my skills and conribute to new and existing softwares. 
+:computer: I'm a full stack developer striving to improve my skills and contribute to new and existing softwares. 
 <br />
 
 :snowflake: I'm especially invested in React stacks such as MERN stack as well as firebase.
