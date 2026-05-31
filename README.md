@@ -1,30 +1,7 @@
-### Hi there 👋 I'm Jessica ✨
+Hi, I'm Jessica 👋
 
-<!--
-**JessicaBassil/JessicaBassil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Software Engineer with 3+ years of experience building scalable React applications, enterprise platforms, and data-intensive systems. I specialize in modern frontend development with React, TypeScript, and React Native, with a focus on performance, developer experience, and maintainable architecture.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br />
-
-:computer: I'm a full stack developer striving to improve my skills and contribute to new and existing softwares. 
-<br />
-
-:snowflake: I'm especially invested in React stacks such as MERN stack as well as firebase.
-<br />
-
-## 📫 How to reach me:
-
-&emsp; My Portfolio: https://portfolio-jessica-bassil-fullstack.onrender.com/
-<br/>
-
-&emsp; My Email: bassiljessica18@gmail.com
+📫 Connect with me:
+• LinkedIn: [https://linkedin.com/in/jessica-bassil-260057190/](https://www.linkedin.com/in/jessica-bassil-260057190/)
+• Email: [bassiljessica18@gmail.com](mailto:bassiljessica18@gmail.com)
